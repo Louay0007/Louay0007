@@ -9,7 +9,7 @@
 ## **About Me**
 
 I'm **Louay Rjili**, a Computer Engineering student at ISSATM in Tunisia 💻.  
-I'm 25 years old and a Daily Life Photographer on [Vsco](https://vsco.co/yallou007).  
+I'm 19 years old and a Daily Life Photographer on [Vsco](https://vsco.co/yallou007).  
 I am passionate about AI, Data Science, and Social Life.  
 
 ---
@@ -39,41 +39,42 @@ I am passionate about AI, Data Science, and Social Life.
 
 ## 📊 **GitHub Stats**
 
+### 🔥 **Dynamic Contributions**
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LouayRjili&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_border=true" alt="Louay Rjili's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LouayRjili&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_title=true&border_radius=15&hide_border=true" alt="Louay Rjili's GitHub Stats" width="70%">
+</p>
+
+### 🚀 **Coding Activity**
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LouayRjili&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Louay Rjili's GitHub Streak Stats" width="70%">
+</p>
+
+### 🌐 **Languages and Tools**
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LouayRjili&theme=vue&hide_border=true" alt="Repos by Language" width="45%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LouayRjili&theme=vue&utcOffset=8" alt="Coding Time by Hour" width="45%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LouayRjili&theme=radical&hide_border=true" alt="Louay Rjili's GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouayRjili&layout=compact&theme=radical&langs_count=10&hide_border=true" alt="Top Languages Used" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LouayRjili&theme=radical" alt="Repos by Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LouayRjili&theme=radical" alt="Most Used Languages by Commit" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=LouayRjili&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph" width="85%">
 </p>
 
 ---
 
 ### ✍️ **Random Dev Quote**
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+</p>
 
 ---
 
-### 🏆 **Trophies**
-[![Trophy](https://github-profile-trophy.vercel.app/?username=LouayRjili&theme=nord&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 🌐 **Languages**
-| Language | Proficiency                                                                                     |
-|----------|-------------------------------------------------------------------------------------------------|
-| EN-US    | Fluent                                                                                         |
-| FR-FRA   | Native                                                                                         |
-| AR-SA    | Advanced                                                                                       |
+### 🏆 **Achievements**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LouayRjili&theme=onedark&no-frame=true&margin-w=15&row=1&column=6" alt="Trophies" width="90%">
+</p>
 
 ---
 
