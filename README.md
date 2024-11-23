@@ -32,19 +32,11 @@ I am completely passionate about AI And Data Science Also Social Life means a lo
 
 ![GitHub followers](https://img.shields.io/badge/-@Louay-rjilie84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)
 
-![Github Page Visit Count](https://komarev.com/ghpvc/?username=AzizBenIsmail)
-<img src="https://img.shields.io/badge/Age-24-blue" />
+<img src="https://img.shields.io/badge/Age-19-blue" />
 
 <!-- Ligne  -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <!-- TODO: Add last video link 
-
-- 🔭 I’m currently working at @Toptal
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: aziz.270700@gmail.com.
-- 😄 Pronouns: Sam3oulation,Ismail.
--->
 
 
 <!-- Skills  -->
@@ -86,7 +78,7 @@ I am completely passionate about AI And Data Science Also Social Life means a lo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzizBenIsmail&repo=PFA-Automatisation_Campagne_Sms-Email-BackendExpress&theme=react)](https://github.com/AzizBenIsmail/PFA-Automatisation_Campagne_Sms-Email-BackendExpress)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-Credit: [Aziz Ben Ismail](https://github.com/AzizBenIsmail) 
+Credit: [Louay Rjili](https://github.com/Louay0007) 
 
 Last Edited on: 03/09/2024
 <details> 
