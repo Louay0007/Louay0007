@@ -17,8 +17,8 @@
 <!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**-->
 **About me**
 
-I'm Mohamed Aziz Ben Ismail a Computer science student at (ESPRIT) in Tunisia 💻 , I'm 25 years old and Content Creator on [Youtube](https://www.youtube.com/c/AzizBenIsmail).
-I am completely passionate about frontend backend development .
+I'm Louay Rjili a Computer Enigeenring student at ISSATM in Tunisia 💻 , I'm 25 years old and a Daily Life Photographer on [Vsco](https://vsco.co/yallou007).
+I am completely passionate about AI And Data Science Also Social Life means a lot .
 
 <!-- Let's Connect..! -->
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
