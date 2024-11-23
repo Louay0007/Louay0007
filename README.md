@@ -9,7 +9,7 @@
 ## **About Me**
 
 I'm **Louay Rjili**, a Computer Engineering student at ISSATM in Tunisia 💻.  
-I'm 19 years old and a Daily Life Photographer on [Vsco](https://vsco.co/yallou007).  
+I'm 25 years old and a Daily Life Photographer on [Vsco](https://vsco.co/yallou007).  
 I am passionate about AI, Data Science, and Social Life.  
 
 ---
@@ -29,22 +29,26 @@ I am passionate about AI, Data Science, and Social Life.
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white)](#)  
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#) 
-[![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
+[![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#) 
+[![Java Badge](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&labelColor=black&logo=java&logoColor=ED8B00)](#)
+[![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=00599C)](#)
+[![SQL Badge](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#)
+[![Swift Badge](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&labelColor=black&logo=swift&logoColor=FA7343)](#)
 
 ---
 
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LouayRjili&show_icons=true&theme=radical&count_private=true" alt="Louay Rjili's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LouayRjili&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_border=true" alt="Louay Rjili's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LouayRjili&theme=radical" alt="Louay Rjili's GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LouayRjili&theme=radical&hide_border=true" alt="Louay Rjili's GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouayRjili&layout=compact&theme=radical" alt="Top Languages Used" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouayRjili&layout=compact&theme=radical&langs_count=10&hide_border=true" alt="Top Languages Used" />
 </p>
 
 <p align="center">
@@ -60,18 +64,16 @@ I am passionate about AI, Data Science, and Social Life.
 ---
 
 ### 🏆 **Trophies**
-[![Trophy](https://github-profile-trophy.vercel.app/?username=LouayRjili&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=LouayRjili&theme=nord&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ### 🌐 **Languages**
-<div align="center">
-| Language | Flags                                                                                     |
-|----------|-------------------------------------------------------------------------------------------|
-| EN-US    | <img width="15%" alt="USA Flag" src="./assets/images/flags/USA.png" />                   |
-| FR-FRA   | <img width="15%" alt="France Flag" src="./assets/images/flags/France.png" />             |
-| AR-SA    | <img width="15%" alt="Saudi Arabia Flag" src="./assets/images/flags/saudi_arabia.jpg" /> |
-</div>
+| Language | Proficiency                                                                                     |
+|----------|-------------------------------------------------------------------------------------------------|
+| EN-US    | Fluent                                                                                         |
+| FR-FRA   | Native                                                                                         |
+| AR-SA    | Advanced                                                                                       |
 
 ---
 
