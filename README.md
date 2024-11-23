@@ -24,13 +24,13 @@ I am completely passionate about AI And Data Science Also Social Life means a lo
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
  
-[![Linkedin Badge](https://img.shields.io/badge/-AzizBenIsmail-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louay-rjili-26401a33a/) 
-[![Mail Badge](https://img.shields.io/badge/-@AzizBenIsmail-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/louuuu007/)
-[![Mail Badge](https://img.shields.io/badge/-AzizBenIsmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:louay.rjilii@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LouayRjili-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louay-rjili-26401a33a/) 
+[![Mail Badge](https://img.shields.io/badge/-@LouayRjili-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/louuuu007/)
+[![Mail Badge](https://img.shields.io/badge/-LouayRjili-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:louay.rjilii@gmail.com)
 
 <!-- YouTube Channel Views /GitHub followers /visitors/Age  -->
 
-![GitHub followers](https://img.shields.io/badge/-@AzizBenIsmail-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)
+![GitHub followers](https://img.shields.io/badge/-@Louay-rjilie84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)
 
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=AzizBenIsmail)
 <img src="https://img.shields.io/badge/Age-24-blue" />
