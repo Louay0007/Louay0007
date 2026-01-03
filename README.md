@@ -6,7 +6,7 @@
 <!-- Animated Wave -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-<!-- Typing Animation - FIXED -->
+<!-- Typing Animation -->
 <br><br>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=70&lines=Hey!+It's+Louay+Rjili+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%92%BB;Software+Engineer+%E2%9A%99%EF%B8%8F;AI+%26+Data+Science+Enthusiast+%F0%9F%A4%96;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
@@ -16,7 +16,7 @@
 
 <!-- Profile Views Counter -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=LouayRjili&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Louay007&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
@@ -88,19 +88,56 @@ fun_fact: "I turn ☕ into <code/>"
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> **GitHub Analytics**
 
+<!-- IMPORTANT: Replace 'Louay007' with your exact GitHub username -->
+
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LouayRjili&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=LouayRjili&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
+<a href="https://github.com/Louay007">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Louay007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louay007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+</a>
 
 </div>
 
-<div align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=LouayRjili&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&area_color=58A6FF" />
-</div>
+<br>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouayRjili&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Louay007&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="70%" />
+</div>
+
+---
+
+## 📈 **Contribution Graph**
+
+<div align="center">
+  
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Louay007&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&area_color=58A6FF&custom_title=Louay's%20Contribution%20Graph" width="100%" />
+
+</div>
+
+<br>
+
+<div align="center">
+  
+<!-- Profile Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Louay007&theme=tokyonight" width="100%" />
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Louay007&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Louay007&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Louay007&theme=tokyonight&utcOffset=1" width="32%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Louay007&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits?username=Louay007&theme=tokyonight" width="32%" />
 </div>
 
 ---
@@ -109,15 +146,13 @@ fun_fact: "I turn ☕ into <code/>"
 
 <div align="center">
   
-<!-- All Trophies - Multiple Rows -->
-<img src="https://github-profile-trophy.vercel.app/?username=LouayRjili&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Louay007&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="100%" />
 
 </div>
 
 <div align="center">
   
-<!-- Alternative Trophy Display with Different Theme -->
-<img src="https://github-profile-trophy.vercel.app/?username=LouayRjili&theme=discord&no-frame=true&column=7&margin-w=10&margin-h=10&rank=-C,-B" />
+<img src="https://github-profile-trophy.vercel.app/?username=Louay007&theme=discord&no-frame=true&column=7&margin-w=10&margin-h=10" />
 
 </div>
 
@@ -127,34 +162,17 @@ fun_fact: "I turn ☕ into <code/>"
 
 <div align="center">
   
-<!-- Snake Animation - Using Platane's hosted version -->
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Louay007/Louay007/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Louay007/Louay007/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Louay007/Louay007/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
-<!-- Alternative: If you set up your own workflow, use this instead -->
-<!--
+<!-- If snake doesn't work, use this alternative animated contribution chart -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LouayRjili/LouayRjili/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LouayRjili/LouayRjili/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LouayRjili/LouayRjili/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
--->
-
----
-
-## 📈 **Contribution Graph**
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LouayRjili&theme=tokyonight" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LouayRjili&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LouayRjili&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LouayRjili&theme=tokyonight&utcOffset=1" width="32%" />
+  <img src="https://github.com/Louay007/Louay007/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -180,18 +198,10 @@ fun_fact: "I turn ☕ into <code/>"
 
 ---
 
-## 💭 **Random Dev Quote**
+## � **RTandom Dev Quote**
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-## 🎵 **Coding Vibes**
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&count=3&unique=true" alt="Spotify Recently Played" />
 </div>
 
 ---
@@ -217,6 +227,6 @@ fun_fact: "I turn ☕ into <code/>"
   
   <sub>Made with ❤️ by Louay Rjili</sub>
   <br>
-  <sub>Last Updated: January 2026</sub>
+  <sub>Credit: <a href="https://github.com/Louay007">Louay Rjili</a> | Last Updated: January 2026</sub>
   
 </div>
